@@ -1,18 +1,19 @@
 - depot
-- barracks
+- barracks (3 reaper then reactor)
 - gas (normal)
 - gas (rally to second gas right after first)
 * scout after taking second gas
 - reaper & orbital
 * check scout
-- factory & supply depot (as soon as enough gas)
-* take scv's off gas
-* send reaper 
+- factory  
+- 2nd supply depot
+* take scv's off gas (leaving 2 in each gas)
 - command center (with supply depot scv)
 - reapers and hellions (until 3 reaper 2 hellion)
 * micro reaper
-- supply depot
-- starport & put workers back on gas (reactor)
+- 3nd supply depot 
+- starport (while second hellion is building)
+* workers back on gas
 - reactor on barracks & tech lab on factory
 * attack with 3 reapers and 3 hellions
 - build cyclone 
