@@ -1,0 +1,30 @@
+- depot
+- barracks
+- gas (normal)
+- gas (rally to second gas right after first)
+* scout after taking second gas
+- reaper & orbital
+* check scout
+- factory & supply depot (as soon as enough gas)
+* take scv's off gas
+* send reaper 
+- command center (with supply depot scv)
+- reapers and hellions (until 3 reaper 2 hellion)
+* micro reaper
+- supply depot
+- starport & put workers back on gas (reactor)
+- reactor on barracks & tech lab on factory
+* attack with 3 reapers and 3 hellions
+- build cyclone 
+- build tanks
+- build marrines with barracks 
+- 3rd command center
+- vikings 
+- 2nd and 3rd barracks
+- 2 engineering bays 
+* vikings into opponents main and natural
+- 4th and 5th barracks
+- armoury
+- 2nd factory (gasses at third base)
+
+
