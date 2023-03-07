@@ -1,0 +1,10 @@
+race_vs,natural_saturation_time,third_saturation_time,army_supply,1_1_attack_time,aggression,result
+p,4:20,5:50,46,8:20,0,l
+t,3:50,5:30,105,10:00,0,w
+p,4:30,6:00,61,8:18,0,l
+t,5:00,6:00,46,9:45,3,w
+t,4:27,6:17,51,8:39,0,w
+z,7:00,,,,5,w
+p,,,,,5,l
+t,4:52,11:40,115,16:45,4,l
+t,6:01,,,,4,w
